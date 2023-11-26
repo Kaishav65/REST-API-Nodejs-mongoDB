@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-// url = "mongodb+srv://kaishav:rootpassword@clusterkeshav.6qezoi5.mongodb.net/thapa?retryWrites=true&w=majority"
+// url = "mongodb+srv://kaishav:password@clusterkeshav.6qezoi5.mongodb.net/thapa?retryWrites=true&w=majority"
 
 
 const connectDB = (url)=>{
